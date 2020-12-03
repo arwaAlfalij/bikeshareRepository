@@ -1,5 +1,5 @@
 ### Date created
-oct 15th, 2020
+oct 17th, 2020
 ### Project Title
 Bikeshare system
 
@@ -7,7 +7,7 @@ Bikeshare system
 This project imports data from the bike share systems of New York City,
 Chicago, and Washington providing statistics informition for the user, 
 he can filter the descriptive statistics data by month and day of the
-week.also gives the user the choice to view raw data
+week.also gives the user the choice to view raw data.
 
 ### Files used
 chicago.csv, new_york_city.csv, washington.csv
