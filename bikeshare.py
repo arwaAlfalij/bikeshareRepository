@@ -193,7 +193,7 @@ def user_stats(df,city):
         print('Most recent birth is: \n',recent)
         most = df['Birth Year'].mode()[0]
         print('Most common birth is:\n',most )
-       
+    # print:   
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 def display_5_raw_data(df):
@@ -238,8 +238,8 @@ def main():
             
                
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        again = input('\nWould you like to restart? Enter yes or no.\n')
+        if again.lower() != 'yes':
             break
 
 
